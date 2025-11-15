@@ -1,3 +1,4 @@
-requests~=2.32.0
+requests
 numpy~=2.2.0
-pillow~=10.4.0
+pillow
+
